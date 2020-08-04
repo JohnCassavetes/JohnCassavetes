@@ -8,7 +8,7 @@ I'm currently a student, spending most of my free-time making lots of awesome pr
 ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama)]
 
 ## 🥨 Contact
 If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks! 
