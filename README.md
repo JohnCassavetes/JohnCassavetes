@@ -11,6 +11,6 @@ I'm currently a student, spending most of my free-time making lots of awesome pr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama)
 
 ## 🥨 Contact
-If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks! 
+If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks!
 
 
