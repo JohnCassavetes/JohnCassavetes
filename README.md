@@ -13,6 +13,10 @@ I'm currently a student, spending most of my free-time making lots of awesome pr
 **Currently learning:**
 - 🌱 Python
 
+## Upcoming Projects
+- (iOS) Movie Shuffler App 
+- (Python) Keylogger
+
 ## 🥨 Contact
 If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks!
 
