@@ -10,8 +10,7 @@ I'm currently a student, spending most of my free-time making lots of awesome pr
 ## 🙊 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama)
 
-**Currently learning:**
-- 🌱 Python
+**🌱 Currently learning: Python**
 
 ## 🤘 Upcoming Projects
 - (iOS) Movie Shuffler App 🎞
