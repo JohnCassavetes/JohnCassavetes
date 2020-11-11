@@ -1,4 +1,5 @@
-# Hey there, my name is Jeremy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Welcome To My Page 
+# Hey there, my name is Jeremy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+
 
 ![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremypage.jpg?raw=true)
 ![](https://komarev.com/ghpvc/?username=jeremygautama&color=lightgrey)
