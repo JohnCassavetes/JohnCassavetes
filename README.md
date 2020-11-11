@@ -1,7 +1,7 @@
 # Hey there, my name is Jeremy 👋
 
 ![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremypage.jpg?raw=true)
-![](https://komarev.com/ghpvc/?username=jeremygautama&color=red)
+![](https://komarev.com/ghpvc/?username=jeremygautama&color=lightgrey)
 
 ## 😄 About me
 I'm currently a student spending most of my free-time making awesome projects which varys from filmmaking to writing code for the open source community. 
