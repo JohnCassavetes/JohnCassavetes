@@ -4,6 +4,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Keepwords)](https://github.com/jeremygautama/Keepwords)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Shark-Ai)](https://github.com/jeremygautama/Shark-Ai)
 
+
 ## 😄 About me
 I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
 
@@ -12,7 +13,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 ![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true&theme=vue)
 -->
 ## 🙊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama&layout=compact)
 
 ## 🤘 Upcoming Projects
 - Movie Shuffler App 🎞
