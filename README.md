@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there, my name is [𝔍𝔢𝔯𝔢𝔪𝔶](https://jeremygautama.github.io)!
 ![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy.png?raw=true)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Keepwords)](https://github.com/jeremygautama/Keepwords)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Shark-Ai)](https://github.com/jeremygautama/Shark-Ai)
 
 ## 😄 About me
 I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
@@ -10,6 +8,11 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <!--
 ![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true&theme=vue)
 -->
+
+## 😎 Top repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Keepwords)](https://github.com/jeremygautama/Keepwords)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Shark-Ai)](https://github.com/jeremygautama/Shark-Ai)
+
 ## 🙊 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama&layout=compact)
 
