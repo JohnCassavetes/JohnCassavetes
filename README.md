@@ -13,7 +13,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Keepwords)](https://github.com/jeremygautama/Keepwords)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Shark-Ai)](https://github.com/jeremygautama/Shark-Ai)
 
-## 🙊 Languages
+## 🔨🙊 Tools and Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama&layout=compact)
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
