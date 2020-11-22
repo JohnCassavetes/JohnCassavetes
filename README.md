@@ -30,10 +30,14 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <br />
 
 ## 🤘 Upcoming Projects
+- ✅ Password Manager App 🔐
+- ✅ AI App 🚀
 - Movie Shuffler App 🎞
 - Keylogger 🔐
-- SAT Score Converter📝
+- ✅ SAT Score Converter📝 
 - Baka Mitai AI 👤
+
+✅ Means finished
 
 ## 🥨 Contact
 If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks!
