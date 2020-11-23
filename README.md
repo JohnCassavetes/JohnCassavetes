@@ -36,6 +36,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - Keylogger 🔐
 - ✅ SAT Score Converter📝 
 - Baka Mitai AI 👤
+- Cool Text Animations for READMEs 📄
 
 ✅ Means finished*
 
