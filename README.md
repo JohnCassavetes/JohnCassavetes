@@ -38,13 +38,13 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <br />
 
 ## 🤘 Upcoming Projects
-- ✅ [Password Manager App 🔐](https://github.com/jeremygautama/Keepwords)
-- ✅ [AI App 🚀](https://github.com/jeremygautama/Shark-Ai)
+- ✅ [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
+- ✅ [AI App](https://github.com/jeremygautama/Shark-Ai) 🚀
 - Movie Shuffler App 🎞
 - Keylogger 🔐
-- ✅ [SAT Score Converter📝](https://github.com/jeremygautama/SAT-Raw-Score-Converter)
+- ✅ [SAT Score Converter](https://github.com/jeremygautama/SAT-Raw-Score-Converter) 📝
 - Baka Mitai AI 👤
-- ✅ [Cool Text Art for READMEs 📄](https://github.com/jeremygautama/Text-Art)
+- ✅ [Cool Text Art for READMEs](https://github.com/jeremygautama/Text-Art) 📄
 
 ✅ Means finished*
 
