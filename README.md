@@ -1,8 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there, [my name is Jeremy](https://jeremygautama.github.io)!
 <!--
-![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true) ## 😄 About me 
+![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true) 
+## 😄 About me 
+I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
 -->
-- <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
+- <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
+- <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spending most of my free-time making awesome projects: 
+  - 🎬 Independent filmmaking
+  - 👨‍💻 Writing code for the open-source community.
 
 ![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
