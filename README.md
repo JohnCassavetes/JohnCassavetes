@@ -17,7 +17,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 ![𝔍𝔢𝔯𝔢𝔪𝔶's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true&theme=vue)
 -->
 
-## 😎 Top repositories
+## 😎 Top Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Keepwords)](https://github.com/jeremygautama/Keepwords)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Shark-AI)](https://github.com/jeremygautama/Shark-Ai)
 
