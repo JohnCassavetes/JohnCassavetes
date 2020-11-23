@@ -37,7 +37,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - ✅ SAT Score Converter📝 
 - Baka Mitai AI 👤
 
-✅ Means finished
+✅ Means finished*
 
 ## 🥨 Contact
 If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks!
