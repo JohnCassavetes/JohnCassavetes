@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there, my name is [Jeremy](https://jeremygautama.github.io)!
 <!--
-![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy.png?raw=true)
+![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true)
 -->
 ## 😄 About me
 I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
