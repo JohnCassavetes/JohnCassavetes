@@ -11,7 +11,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spend most of my free-time making awesome projects: 
   - 🎬 Independent filmmaking
   - 👨‍💻 Writing code for the open-source community.
-  - 🌱 Etc.
+  - 🔥 Etc.
 
 <!--
 ![𝔍𝔢𝔯𝔢𝔪𝔶's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true&theme=vue)
@@ -37,7 +37,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <br />
 <br />
 
-## 🤘 Upcoming Projects
+## 🤘 To-do Projects
 - ✅ [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
 - ✅ [AI App](https://github.com/jeremygautama/Shark-Ai) 🚀
 - Movie Shuffler App 🎞
