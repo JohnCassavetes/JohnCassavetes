@@ -4,11 +4,13 @@
 ## 😄 About me 
 I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,645p09&title_color=aaa&text_color=lau" alt="github stats" class="center">
 
 <!--
-![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,645p09&title_color=aaa&text_color=lau" alt="github stats" class="center">
 -->
+
+![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spend most of my free-time making awesome projects: 
