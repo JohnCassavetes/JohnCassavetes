@@ -1,18 +1,30 @@
-<img src="https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true" alt="nice" class="center" />
- 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there, [my name is Jeremy](https://jeremygautama.github.io)!
-<!--
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="1000" alt="stats">
+  </a>
+</p>
+
+<!-- Big Sign INT., CUT TO:
+<p align="center">
+  <a href="https://raw.githubusercontent.com/jeremygautama/jeremygautama/master/thisisjeremy/thisisjeremy.png">
+    <img src="https://raw.githubusercontent.com/jeremygautama/jeremygautama/master/thisisjeremy/thisisjeremy.png" width="900" alt="BigSign">
+  </a>
+</p>
+-->
+
+---
+
+<!-- About Me origin
+<img src="https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true" alt="nice" class="center" />
 ![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true) 
 ## 😄 About me 
 I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
 -->
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,645p09&title_color=aaa&text_color=lau" alt="github stats" class="center">
--->
-
+<!-- Github Stats origin
 ![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+-->
 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spend most of my free-time making awesome projects: 
@@ -20,7 +32,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
   - 👨‍💻 Writing code for the open-source community.
   - and so on...
 
-<!--
+<!-- look at the 𝔍𝔢𝔯𝔢𝔪𝔶
 ![𝔍𝔢𝔯𝔢𝔪𝔶's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true&theme=vue)
 -->
 
