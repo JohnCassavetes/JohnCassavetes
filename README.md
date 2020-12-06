@@ -56,7 +56,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <br />
 <br />
 
-## 🤘 To-do Projects
+## 🤘✅ To-do Projects
 - ✅ [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
 - ✅ [AI App](https://github.com/jeremygautama/Shark-Ai) 🚀
 - Movie Shuffler App 🎞
