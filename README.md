@@ -27,10 +27,10 @@ I'm currently a student spending most of my free-time making awesome projects wh
 -->
 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
-- <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spend most of my free-time making awesome projects: 
+- <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spending most of my free-time making awesome projects: 
   - 🎬 Independent filmmaking
   - 👨‍💻 Writing code for the open-source community.
-  - and so on...
+  - 🌱 and so much more...
 
 <!-- look at the 𝔍𝔢𝔯𝔢𝔪𝔶
 ![𝔍𝔢𝔯𝔢𝔪𝔶's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true&theme=vue)
