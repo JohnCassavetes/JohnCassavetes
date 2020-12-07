@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coolHello.gif">
+    <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coolHello.gif" width="500" alt="Hello!">
+  </a>
+</p>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hey there, [my name is Jeremy](https://jeremygautama.github.io)!
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
@@ -28,8 +34,8 @@ I'm currently a student spending most of my free-time making awesome projects wh
 ## 😄 About me 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spending most of my free-time making awesome projects: 
-  - 🎬 Independent filmmaking
-  - 👨‍💻 Writing code for the open-source community
+  - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/film.gif" width="30vw" alt="🎬"/> Independent filmmaking
+  - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/code.gif" width="20vw" alt="👨‍💻"/> Writing code for the open-source community
   - 🌱 and so much more...
 
 <!-- look at the 𝔍𝔢𝔯𝔢𝔪𝔶
