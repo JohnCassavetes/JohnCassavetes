@@ -7,8 +7,6 @@
 
 ---
 
-<br />
-
 <!-- Big Sign INT., CUT TO:
 <p align="center">
   <a href="https://raw.githubusercontent.com/jeremygautama/jeremygautama/master/thisisjeremy/thisisjeremy.png">
