@@ -34,7 +34,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 ## 😄 About me 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spending most of my free-time making awesome projects: 
-  - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/film.gif" width="30vw" alt="🎬"/> Independent filmmaking 
+  - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/film3.gif" width="20vw" alt="🎬"/> Independent filmmaking 
   - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/code.gif" width="20vw" alt="👨‍💻"/> Writing code for the open-source community
   - 🌱 and so much more...
 
