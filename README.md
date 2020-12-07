@@ -5,14 +5,13 @@
   </a>
 </p>
 
----
-
 <!-- Big Sign INT., CUT TO:
 <p align="center">
   <a href="https://raw.githubusercontent.com/jeremygautama/jeremygautama/master/thisisjeremy/thisisjeremy.png">
     <img src="https://raw.githubusercontent.com/jeremygautama/jeremygautama/master/thisisjeremy/thisisjeremy.png" width="900" alt="BigSign">
   </a>
 </p>
+---
 -->
 
 <!-- About Me origin
