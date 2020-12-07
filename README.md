@@ -13,8 +13,6 @@
 </p>
 -->
 
----
-
 <!-- About Me origin
 <img src="https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true" alt="nice" class="center" />
 ![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true) 
@@ -26,6 +24,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 ![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
 
+## 😄 About me 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Spending most of my free-time making awesome projects: 
   - 🎬 Independent filmmaking
