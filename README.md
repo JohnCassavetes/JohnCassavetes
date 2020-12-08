@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/gradientHello.gif">
-    <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/gradientHello.gif" width="500" alt="Hello!">
+  <a href="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/coolHello.gif">
+    <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/coolHello.gif" width="500" alt="Hello!">
   </a>
 </p>
 
