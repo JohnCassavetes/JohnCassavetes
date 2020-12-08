@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/drowningHello.gif">
-    <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/drowningHello.gif" width="500" alt="Hello!">
+  <a href="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/gradientHello.gif">
+    <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/gradientHello.gif" width="500" alt="Hello!">
   </a>
 </p>
 
@@ -70,6 +70,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - ✅ [SAT Score Converter](https://github.com/jeremygautama/SAT-Raw-Score-Converter) 📝
 - Baka Mitai AI 👤
 - ✅ [Cool Text Art for READMEs](https://github.com/jeremygautama/Text-Art) 📄
+- Indonesian Programming Language
 
 ✅ Means finished*
 
