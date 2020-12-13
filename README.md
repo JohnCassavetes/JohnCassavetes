@@ -45,6 +45,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 ## 😎 Top Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Keepwords)](https://github.com/jeremygautama/Keepwords)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Shark-AI)](https://github.com/jeremygautama/Shark-Ai)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bahasalanguage&repo=bahasa)](https://github.com/jeremygautama/Shark-Ai)
 
 ## 🔨🙊 Tools and Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama&layout=compact)
