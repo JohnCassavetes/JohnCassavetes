@@ -63,16 +63,15 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <br />
 
 ## 🤘✅ To-do Projects
-- ✅ [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
-- ✅ [AI App](https://github.com/jeremygautama/Shark-Ai) 🚀
-- Movie Shuffler App 🎞
-- Keylogger 🔐
-- ✅ [SAT Score Converter](https://github.com/jeremygautama/SAT-Raw-Score-Converter) 📝
-- Baka Mitai AI 👤
-- ✅ [Cool Text Art for READMEs](https://github.com/jeremygautama/Text-Art) 📄
-- Indonesian Programming Language
+- [x] [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
+- [x] [AI App](https://github.com/jeremygautama/Shark-Ai) 🚀
+- [ ] Movie Shuffler App 🎞
+- [ ] Keylogger 🔐
+- [x] [SAT Score Converter](https://github.com/jeremygautama/SAT-Raw-Score-Converter) 📝
+- [ ] Baka Mitai AI 👤
+- [x] [Cool Text Art for READMEs](https://github.com/jeremygautama/Text-Art) 📄
+- [x] An Indonesian Programming Language 🇮🇩
 
-✅ Means finished*
 
 ## 🥨 Contact
 If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks!
