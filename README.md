@@ -71,7 +71,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - [x] [SAT Score Converter](https://github.com/jeremygautama/SAT-Raw-Score-Converter) 📝
 - [ ] Baka Mitai AI 👤
 - [x] [Cool Text Art for READMEs](https://github.com/jeremygautama/Text-Art) 📄
-- [x] An Indonesian Programming Language 🇮🇩
+- [x] [Bahasa, An Indonesian Programming Language](https://github.com/bahasalanguage/bahasa) 🇮🇩
 
 
 ## 🥨 Contact
