@@ -63,6 +63,12 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <br />
 <br />
 
+## 🌱 Wanting to Learn
+- C
+- Pascal
+- Haskell
+- Esoteric Languages (Malbolge, and others)
+
 ## 🤘✅ To-do Projects
 - [x] [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
 - [x] [AI App](https://github.com/jeremygautama/Shark-Ai) 🚀
@@ -72,6 +78,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - [ ] Baka Mitai AI 👤
 - [x] [Cool Text Art for READMEs](https://github.com/jeremygautama/Text-Art) 📄
 - [x] [Bahasa, An Indonesian Programming Language](https://github.com/bahasalanguage/bahasa) 🇮🇩
+- [ ] An Esoteric Programming Language
 
 
 ## 🥨 Contact
