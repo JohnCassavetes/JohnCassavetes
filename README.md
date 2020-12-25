@@ -68,6 +68,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - Pascal
 - Haskell
 - Esoteric Languages (Malbolge, and others)
+- Assembly
 
 ## 🤘✅ To-do Projects
 - [x] [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
