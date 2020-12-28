@@ -67,6 +67,7 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - C
 - Pascal
 - Haskell
+- Fortran
 - Esoteric Languages (Malbolge, and others)
 - Assembly
 
