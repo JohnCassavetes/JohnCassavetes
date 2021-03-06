@@ -68,9 +68,8 @@ I'm currently a student spending most of my free-time making awesome projects wh
 ## 🌱 Wanting to Learn
 - C
 - Pascal
-- Haskell
-- Fortran
-- Esoteric Languages (Malbolge, and others)
+- Malbolge
+- LOLCODE
 - Assembly
 
 ## 🤘✅ To-do Projects
