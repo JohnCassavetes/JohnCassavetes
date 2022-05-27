@@ -6,8 +6,11 @@
 </p>
 -->
 
+<!--
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello there, [my name is Jeremy](https://jeremygautama.github.io)!
 <p align="center">
+-->
+
   <a href="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
     <img src="https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="1000" alt="stats">
   </a>
