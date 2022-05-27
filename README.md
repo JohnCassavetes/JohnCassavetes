@@ -1,9 +1,10 @@
-
+<!--
 <p align="center">
   <a href="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/coolHello.gif">
     <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/helloGifs/coolHello.gif" width="500" alt="Hello!">
   </a>
 </p>
+-->
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello there, [my name is Jeremy](https://jeremygautama.github.io)!
 <p align="center">
@@ -21,33 +22,23 @@
 ---
 -->
 
-<!-- About Me origin
-<img src="https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true" alt="nice" class="center" />
-![](https://github.com/jeremygautama/jeremygautama/blob/master/thisisjeremy/thisisjeremy.png?raw=true) 
-## 😄 About me 
-I'm currently a student spending most of my free-time making awesome projects which varies from independent filmmaking to writing code for the open-source community.
--->
-
-<!-- Github Stats origin
-![j's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
--->
-
+<!--
 ## 😄 About me 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/coin.gif" width="20vw" alt="Coin spinning"/> I'm currently a student 
 - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/mario.gif" width="20vw" alt="mario"/>Dedicating some of my free-time making awesome projects: 
   - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/slate.gif" width="20vw" alt="🎬"/> Independent filmmaking 
   - <img src="https://github.com/jeremygautama/jeremygautama/blob/master/assets/code.gif" width="20vw" alt="👨‍💻"/> Writing code for the open-source community
   - 🌱 and so much more...
-
-<!-- look at the 𝔍𝔢𝔯𝔢𝔪𝔶
-![𝔍𝔢𝔯𝔢𝔪𝔶's github stats](https://github-readme-stats.vercel.app/api?username=jeremygautama&show_icons=true&theme=vue)
 -->
+
 
 ## 😎 Top Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Keepwords)](https://github.com/jeremygautama/Keepwords) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremygautama&repo=Shark-AI)](https://github.com/jeremygautama/Shark-Ai)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bahasalanguage&repo=bahasa)](https://github.com/bahasalanguage/bahasa)
+
+<!--
 
 ## 🔨🙊 Tools and Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygautama&layout=compact)
@@ -62,16 +53,12 @@ I'm currently a student spending most of my free-time making awesome projects wh
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+-->
+
 <br />
 <br />
 
-## 🌱 Wanting to Learn
-- C
-- Pascal
-- Malbolge
-- LOLCODE
-- Assembly
-
+<!--
 ## 🤘✅ To-do Projects
 - [x] [Password Manager App](https://github.com/jeremygautama/Keepwords) 🔐
 - [x] [AI App](https://github.com/jeremygautama/Shark-Ai) 🚀
@@ -82,9 +69,10 @@ I'm currently a student spending most of my free-time making awesome projects wh
 - [x] [Cool Text Art for READMEs](https://github.com/jeremygautama/Text-Art) 📄
 - [x] [Bahasa, An Indonesian Programming Language](https://github.com/bahasalanguage/bahasa) 🇮🇩
 - [ ] An Esoteric Programming Language
+-->
 
-
+<!--
 ## 🥨 Contact
 If you have any questions, feel free to [email](mailto:mail.jeremygautama@gmail.com) me or to visit my [website](https://jeremygautama.github.io). Thanks!
-
+-->
 
