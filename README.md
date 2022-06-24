@@ -1,29 +1,20 @@
-<!--
+
 <p align="center">
   <a href="https://github.com/JohnCassavetes/JohnCassavetes/blob/master/assets/helloGifs/coolHello.gif">
     <img src="https://github.com/JohnCassavetes/JohnCassavetes/blob/master/assets/helloGifs/coolHello.gif" width="500" alt="Hello!">
   </a>
 </p>
--->
 
-<!--
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello there, [my name is Jeremy](https://jeremygautama.github.io)!
+
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello there!
 <p align="center">
--->
 
   <a href="https://github-readme-stats.vercel.app/api?username=JohnCassavetes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
     <img src="https://github-readme-stats.vercel.app/api?username=JohnCassavetes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="1000" alt="stats">
   </a>
 </p>
 
-<!-- Big Sign INT., CUT TO:
-<p align="center">
-  <a href="https://raw.githubusercontent.com/JohnCassavetes/JohnCassavetes/master/thisisjeremy/thisisjeremy.png">
-    <img src="https://raw.githubusercontent.com/JohnCassavetes/JohnCassavetes/master/thisisjeremy/thisisjeremy.png" width="900" alt="BigSign">
-  </a>
-</p>
----
--->
 
 
 ## 😎 Top Repositories
